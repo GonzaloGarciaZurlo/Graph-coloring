@@ -1,0 +1,5 @@
+c vertices no consecutivos
+p edge 5 3
+e 1 10
+e 0 15768
+e 1000000 1
